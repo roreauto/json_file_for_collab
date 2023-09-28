@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "alcon-400214",
+  "private_key_id": "0a2dd2c3d014c72224050f11e1d053054b3135a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCohJyi5nMaOdG/\nytF1W8CtP7aLg9N6QjBlrAG04D2W4X0hrzS3Ep/cn1DNEAsjA8f69TXHnTtSXVss\nlZIR8j0Fptx4zD4Gs4nae/sDLQDpvd8x6wr98g85hg1fu2YPS9cqqQAT3O+XvRzJ\nJzfRq0zJTswmKnLu/yzF3AhH1uMzw23fJN1LOt7n4qxiWI2YaK2tW8lakp6MsX8S\nbmNmlgVarjvCI4FORTWDwSpIvKHIDrV0llRLpZH4yI3wOsB3CyWNKhvxrgNXizBQ\ndwWUrv4X9/uZwf1jiekp0c6unO0PvFpnNVr74RizcZp/EOrFTL4UKKijGwlRoa+y\n08mfztnDAgMBAAECggEAHnwK198nYE2oV3EprfjApLabX6ajyYCSv7m7f0x3Z8V3\nvPG0cA/C8oaxd78YvKdQ9GGKbodPdWlk9m5CQ9PV3SFfzcxoxg6ReAAomtz3xtDt\nwNp7nQ++WFIbNj+wyUCXdmSnGnDDuOfhfrQFAX1jASGrhZX1P63SnCJfLxu88x5y\nmOmzoBkDHr1mD+81ESf+RBxeg326ErTGahbVeFPwIu185c1k62HS3v5UL3CA76mK\njV7PreoRu2TFvHWMfYz3boF+PGFNqXw5UtzBLEAJvNSL3+maFUb9oJKNX6gccyDi\nrnIs0DwyLEAUyltktFcguFY+PQC/ZV8iOvJJbCkP0QKBgQDYy67lDZ5QKFfel6Ki\n/T9EDLdyBwtfTfnl4EPjsQGFPxSH1zWKgHA6lRISFIvUxEysKYF82f87pX9i9edr\n2qvQucrYcELdE2w0LF9pijkU5M+024jXycYuZjtGXtMtgm2NqdPfyUPFNNEckYhj\n6BDge1w7LGVpOEi+hbuvZsmxsQKBgQDG/fgO2m4o2sKdvUuZ/YHknvnx/d+CLM8L\n08PrGbBYh7Rwa+D1yH4+uogdW+AImROUN04KkndeVldXU1lH006K+36DzW/mK7kX\nC2B/RIKACEGJQGCvNPcXZexH5Ol/vQshW2HoUliFWtdcF6hwwiNHwCR2SkKGMflY\nm0jftLULswKBgQDIVBatw9LJgS4JGxeHAvrGF/YfoRDKJVTJLV2uda7RAMQo7h2k\neSC7kWpcWK4JksbCw6vKwepOpJQ8zrvk9vCTdEtTixDOFpeC8onMDZTHkNO57K7b\nr7C4yXD2isMbJ42yPP7yqJk+Dps4ieZ9Y0DNHlDQwSqIeyEFJLCU2SeBUQKBgBzP\nB+qelPQ1N5e+oANbQELpASaXqpQeCJudvO98eJtYijb8Z0UuEZjjSHF3q6eTAdKj\nbxj4u29c8Kgj2PkdDnHwlxBd3aVlDxbW/tFuCbafe11zhIvZDyzEBMEj0uo7ZDEg\nGbyYr1gfHq6mfixU7uakWqMFfTwQYBkD4jkA4HUhAoGBAIQfvEkUc+f605y6zDFs\nJmjt/zjoKCYNr4Q5os68ktb4NHolvEQKQVg898sO+31QguL3QwXSjHrcUB5QNNmo\nyqPf2NfOULL/qWLZdwzm13fRuNos/DIP6woXjJzE4LqHqVdqJvQ0IU0bSLuErZUm\n2PjaRTGxL170Xrqp0RIY/nhC\n-----END PRIVATE KEY-----\n",
+  "client_email": "aoyd-alcon@alcon-400214.iam.gserviceaccount.com",
+  "client_id": "105440117268180528917",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aoyd-alcon%40alcon-400214.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
